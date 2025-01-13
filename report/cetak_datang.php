@@ -20,9 +20,9 @@
 <body>
 	<center>
 
-		<h2>PEMERINTAH KABUPATEN PERCONTOHAN</h2>
-		<h3>KECAMATAN PERCONTOHAN
-			<br>DESA PERCONTOHAN</h3>
+		<h2>PEMERINTAH KABUPATEN SUKABUMI</h2>
+		<h3>KECAMATAN ....................
+			<br>DESA ....................</h3>
 		<p>________________________________________________________________________</p>
 
 		<?php
@@ -79,15 +79,15 @@
 			<?php } ?>
 		</tbody>
 	</table>
-	<p>Benar-benar Telah datang dan berencana untuk tinggal di Desa Maju Jaya, Kecamatan Maju Jaya, Kabupuaten Maju Jaya.</P>
-	<p>Demikian Surat ini dibuat, agar dapat digunakan sebagaimana mestinya.</P>
+	<p>Benar-benar Telah datang dan berencana untuk tinggal di Desa .........., Kecamatan ........, Kabupuaten Sukabumi.</P>
+	<p> Demikian Surat ini dibuat, agar dapat digunakan sebagaimana mestinya.</P>
 	<br>
 	<br>
 	<br>
 	<br>
 	<br>
 	<p align="right">
-		Maju Jaya,
+		Sukabumi,
 		<?php echo $tgl; ?>
 		<br> KEPALA DESA ...............
 		<br>

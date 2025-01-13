@@ -21,8 +21,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>SIDAK</title>
-	<link rel="icon" href="dist/img/izin.png">
+	<title>SIDAKEP KAB. SMI</title>
+	<link rel="icon" href="dist/img/lambang-kabsmi-icon.png">
 	<!-- Tell the browser to be responsive to screen width -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -47,7 +47,7 @@
 	<!-- Site wrapper -->
 	<div class="wrapper">
 		<!-- Navbar -->
-		<nav class="main-header navbar navbar-expand navbar-red navbar-light">
+		<nav class="main-header navbar navbar-expand navbar-yellow navbar-light">
 			<!-- Left navbar links -->
 			<ul class="navbar-nav">
 				<li class="nav-item">
@@ -77,8 +77,8 @@
 		<aside class="main-sidebar sidebar-dark-primary elevation-4">
 			<!-- Brand Logo -->
 			<a href="index.php" class="brand-link">
-				<img src="dist/img/izin.png" alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
-				<span class="brand-text"> SIDAK</span>
+				<img src="dist/img/lambang-kabsmi-icon.png" alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
+				<span class="brand-text"> SIDAKEP KAB. SMI</span>
 			</a>
 
 			<!-- Sidebar -->
@@ -635,12 +635,12 @@
 		<footer class="main-footer">
 			<div class="float-right d-none d-sm-block">
 				Copyright &copy;
-				<a target="_blank" href="https://www.youtube.com/channel/UCDxjOzW7F0JOkltlXT6g7AQ">
-					<strong> elseif software house</strong>
+				<a target="_blank" href="https://github.com/kempess/Sidakep-Kab-Smi">
+					<strong> kempess</strong>
 				</a>
 				All rights reserved.
 			</div>
-			<b>SI PANDU VERSI 2020</b>
+			<b>SIDAKEP KABUPATEN SUKABUMI 2021</b>
 		</footer>
 
 		<!-- Control Sidebar -->

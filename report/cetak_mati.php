@@ -20,9 +20,9 @@
 <body>
 	<center>
 
-		<h2>PEMERINTAH KABUPATEN PERCONTOHAN</h2>
-		<h3>KECAMATAN PERCONTOHAN
-			<br>DESA PERCONTOHAN</h3>
+		<h2>PEMERINTAH KABUPATEN SUKABUMI</h2>
+		<h3>KECAMATAN ....................
+			<br>DESA ....................</h3>
 		<p>________________________________________________________________________</p>
 
 		<?php
@@ -89,7 +89,7 @@
 	<br>
 	<br>
 	<p align="right">
-		Maju Jaya,
+		Sukabumi,
 		<?php echo $tgl; ?>
 		<br> KEPALA DESA ..............
 		<br>

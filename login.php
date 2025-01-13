@@ -9,8 +9,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>login | SIDAK</title>
-	<link rel="icon" href="dist/img/izin.png">
+	<title>login | SIDAKEP KAB. SMI</title>
+	<link rel="icon" href="dist/img/lambang-kabsmi-icon.png">
 	<!-- Tell the browser to be responsive to screen width -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -34,11 +34,11 @@
 		<div class="card">
 			<div class="card-body login-card-body">
 				<center>
-					<img src="dist/img/izin.png" width=170px />
+					<img src="dist/img/lambang-kabsmi-icon.png" width=170px />
 					<br>
 					<br>
 					<h5>
-						<b>Sistem Data Kependudukan</b>
+						<b>Sistem Data Kependudukan Kabupaten Sukabumi</b>
 					</h5>
 					<br>
 				</center>
@@ -63,7 +63,7 @@
 					</div>
 					<div class="row">
 						<div class="col-12">
-							<button type="submit" class="btn btn-danger btn-block btn-flat" name="btnLogin" title="Masuk Sistem">
+							<button type="submit" class="btn btn-warning btn-block btn-flat" name="btnLogin" title="Masuk Sistem">
 								<b>Login System</b>
 							</button>
 						</div>
